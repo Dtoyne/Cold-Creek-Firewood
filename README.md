@@ -8,7 +8,9 @@ Prior to being able to program an application myself, I leveraged Wix to get the
 
 While this business is real, both the firewood delivery service and the maintenance of this site remain a side-project.
 
-I hope you enjoy the visual experience!
+I hope you enjoy the visual experience.
+
+Forgive me for yet another bootstrap layout :|
 
 To view the website, please visit http://dylantoyne.wixsite.com/coldcreekfirewood
 
